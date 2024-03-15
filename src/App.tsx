@@ -1,6 +1,4 @@
 import { useRef } from 'react'
-// import './App.css'
-// const url = 'https://staging--adminbpr.netlify.app/login'
 const url = 'http://localhost:3000'
 
 function App() {
